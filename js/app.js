@@ -89,4 +89,78 @@ else{
 
 
 
+// ES PARI E DISPARI CON CONTROLLI 
+
+// function getRandomInt(min, max) {
+//     min = Math.ceil(min);
+//     max = Math.floor(max);
+//     return Math.floor(Math.random() * (max - min) + min);
+//   }
+
+// function ePari(num) {
+
+//     if (num % 2 === 0){
+//         return true
+//     }
+
+//     else {
+//         return false
+//     }
+// }
+
+
+
+
+
+// let SCELTA = prompt('scegli pari o dispari');
+
+
+
+// while( ( SCELTA !== ('pari') )  &&  ( SCELTA !== ('dispari') ) ){
+
+//    SCELTA = prompt('scegli pari o dispari cazzo');
+  
+// }
+  
+// let TUONUMERO= parseInt(prompt('scegli un numero da 1 a 5'));
+ 
+
+
+
+// while(isNaN(TUONUMERO)){
+
+//     TUONUMERO = parseInt(prompt('scegli un numero da 1 a 5 cazzarola'));
+
+// }
+
+
+  
+
+
+  
+//   const PCNUMERO = getRandomInt(1,5);
+//   const RISULTATO = TUONUMERO + PCNUMERO;
+
+//   console.log(SCELTA);
+//   console.log(TUONUMERO);
+//   console.log(PCNUMERO);
+
+
+
+// if (
+//     ( SCELTA === 'pari') && ( ePari ( RISULTATO ) ) ||
+//     ( SCELTA === 'dispari') && ( !ePari ( RISULTATO ) ) ){
+//         alert('Hai Vinto!!!!')
+//     }
+
+//     else{
+//         alert('Hai Perso!!!')
+//     }
+  
+
+
+
+
+
+
 
